@@ -11,3 +11,7 @@ class if_statement
       System.out.println("Statement outside the If statement");
     }
   }
+//This Program will only run in BLUEJ.
+// Want a program that run in any editor?
+// Check Other Respositories.
+// MR.D
