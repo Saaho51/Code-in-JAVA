@@ -15,7 +15,7 @@ public class FlappyBird extends JPanel implements ActionListener, KeyListener {
     private boolean gameOver = false;
 
     public FlappyBird() {
-        JFrame frame = new JFrame("Flappy Bird - BlueJ");
+        JFrame frame = new JFrame("Flappy Bird- Dhruv");
         frame.setSize(400, 600);
         frame.add(this);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
